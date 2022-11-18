@@ -1,8 +1,7 @@
 # Invasion_City-The-Rise-of-AI
-A game that learns from your moves and progresses to win continuously thereafter.
-* Based on Artificial Intelligence, Reinforecement Learning 
 
-
+| A game that learns from your moves and progresses to win continuously thereafter. Based on Artificial Intelligence: Reinforecement Learning  | ![Widget](https://github.com/Avr13/Invasion_City-The-Rise-of-AI/blob/main/Game%20Screenshot.png)   |
+|---|---|
 
 ## Purpose
 As students, we realize that just studying is not fun unless you associate a feeling
@@ -18,12 +17,16 @@ understand the real meaning rather than just bookish knowledge.
 We decide to make a multifaceted game which is fun introducing users to the
 concepts of reinforcement learning and development of artificial Intelligence.
 Our game has various features which make it unique .
-1.Storyline – We have a interesting storyline depicted through a video which
+
+1. Storyline – We have a interesting storyline depicted through a video which
 helps to gain the attention of the user.
-2.Graph- Our game shows a graph which depicts the win ratio of AI creating a
+
+2. Graph- Our game shows a graph which depicts the win ratio of AI creating a
 sense of winning and success in the heart of the user. At the same time
 understanding the essence of reinforcement learning.
-3.Automate- If a person just wants to see the graph in order to understand the
+
+3. Automate- If a person just wants to see the graph in order to understand the
 concept of reinforcement learning then he can also do so using our automate
 function.
-4.Two Player- The game also allows you to play with your friends this fun game.
+
+4. Two Player- The game also allows you to play with your friends this fun game.
