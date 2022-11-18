@@ -3,6 +3,9 @@
 | A game that learns from your moves and progresses to win continuously thereafter. Based on Artificial Intelligence: Reinforecement Learning  | ![Widget](https://github.com/Avr13/Invasion_City-The-Rise-of-AI/blob/main/Game%20Screenshot.png)   |
 |---|---|
 
+## About the Game
+Invasion City is a 3*3 grid game that helps us to explore Reinforcement Learning strategies. It tries to examine the machine logic as it learns. It demonstrates how an artificial intelligence can develop and learn to pay. The machine learns fromthe mistakes it makes and becomes unbeatable.
+
 ## Purpose
 As students, we realize that just studying is not fun unless you associate a feeling
 or an emotion with it. It has also been proven by multiple scientists that once you
@@ -13,7 +16,7 @@ a story we associate reinforcement learning with the emotions of freedom success
 happiness etc. We believe that in this way we can help students retain better and
 understand the real meaning rather than just bookish knowledge.
 
-## About Introduction to the project including techniques
+## Introduction to the project 
 We decide to make a multifaceted game which is fun introducing users to the
 concepts of reinforcement learning and development of artificial Intelligence.
 Our game has various features which make it unique .
@@ -30,3 +33,27 @@ concept of reinforcement learning then he can also do so using our automate
 function.
 
 4. Two Player- The game also allows you to play with your friends this fun game.
+
+
+## How to play
+1. You play white, the AI plays black
+2. There are two types of valid moves:
+    * Move one of your pawns 1 square straight ahead if free
+    * Move one of your pawns 1 square diagonally ahead if ccupied by the opponent and capture the piece
+3. The game is won in one of three ways:
+    * Moving a pawn to the opposite end of the board
+    * Capturing all enemy pawns
+    * Achieving a position in which the enemy can't move
+ 
+ ## Fetures
+ 1. Player modes (Can be accessed from menu, press esc key)
+      * User vs Computer (Single player mode)
+      * User vs User (Two player mode)
+      * Computer Vs Computer (Both Singe and Two player mode off)
+ 2. Other options (Can be accessed from menu, press esc key)
+      * About game
+      * How to play
+      * Credits 
+      * Exit
+      * 
+ ### The game rules and other features are also stated in the game menu which can be accessed by pressing esc key from keyboard
