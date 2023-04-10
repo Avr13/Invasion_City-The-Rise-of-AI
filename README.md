@@ -45,7 +45,7 @@ function.
     * Capturing all enemy pawns
     * Achieving a position in which the enemy can't move
  
- ## Fetures
+ ## Features
  1. Player modes (Can be accessed from menu, press esc key)
       * User vs Computer (Single player mode)
       * User vs User (Two player mode)
