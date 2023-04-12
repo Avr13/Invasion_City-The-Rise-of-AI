@@ -55,5 +55,4 @@ function.
       * How to play
       * Credits 
       * Exit
-      * 
  ### The game rules and other features are also stated in the game menu which can be accessed by pressing esc key from keyboard
